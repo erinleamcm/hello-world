@@ -1,0 +1,244 @@
+Your name:
+
+	Erinlea McGowan-Moniz
+
+
+
+1. Provide a link to the first page of your documentation website:
+
+My site looks the way I want on (choose one): Mac  PC
+
+	Mac
+
+
+
+With this browser (choose one): Firefox Chrome 
+
+	Chrome	
+
+
+
+CODE (75 points)
+
+2. 6 column grid system
+Using:  Flexbox    Grid 
+	
+	Grid
+
+
+Breakpoint values: 
+
+	50rem Tablets
+	31.25rem Phones
+
+Default grid Sass partial file name:
+
+	_mq.scss
+
+
+Starting line numbers:
+
+	1
+
+Breakpoint #1 grid Sass partial file name:
+
+	_mq.scss
+
+
+Starting line numbers:
+
+	16
+
+
+Breakpoint #2 grid Sass partial file name:
+
+	_mq.scss
+
+
+Starting line numbers:
+
+	28
+
+
+3. Color scheme
+Sass partial file name:
+
+	_color.scss
+
+
+Sass line numbers:
+
+	1-5
+
+
+4. Responsive navigation bar
+Sass partial file name:
+
+	_nav.scss
+
+
+Sass line numbers:
+
+	1-95
+
+
+5. Examples of RWD 2.0 implemented
+List 3 different examples of where you've made use of RWD 2.0 in your work. 
+
+	1. Resizing type using calc
+	2. Grid columns
+	3. Pointer coarse media query
+
+Example: padding, typography, and grid columns would count. 
+
+However, padding, more padding, and yet more padding would NOT count.
+
+Sass partial file name:
+
+	_variables.scss
+
+
+Sass line numbers example 1:
+
+	12-24
+
+Sass partial file name:
+
+	_layout.scss
+
+
+Sass line numbers example 2:
+
+	
+	6-13	
+
+
+Sass partial file name:
+
+	_mq.scss
+	
+
+Sass line numbers example 3:
+
+	40-46
+
+
+
+6. Two elements
+Choose from: breadcrumb, button, card, form styling, hero unit/jumbotron, image styling, list styling, table styling, text styling elements, visibility classes. 
+
+a. Choice 1: (name)
+
+	image styling
+
+
+Sass partial file name: 
+
+	_images.scss
+
+
+Sass line numbers:
+
+	1-13
+
+
+b. Choice 2: (name)
+
+	cards
+
+
+Sass partial file name: 
+
+	_card.scss
+
+
+Sass line numbers:
+
+	1-37
+
+
+
+Part 2: Documentation and examples (74 points)
+
+7. Framework name:
+
+	EMMUI (Erinlea McGowan-Moniz's User Interface)
+
+
+
+For each of the below items, provide a URL where the requested information is located.
+
+8. Download button:
+
+	http://erinlea.design/Assignment4/installation.html
+
+
+
+9. Installation:
+
+	http://erinlea.design/Assignment4/installation.html
+
+
+
+10. Grid system install/examples:
+
+	http://erinlea.design/Assignment4/grid.html
+
+
+
+11. Nav bar install/examples: 
+
+	http://erinlea.design/Assignment4/nav.html
+
+
+
+12: Styled element #1 install/examples: 
+
+	http://erinlea.design/Assignment4/card.html
+
+
+
+13: Styled element #2 install/examples:
+
+	http://erinlea.design/Assignment4/image.html
+
+
+
+14: Sass docs for colors:
+
+	_color.scss
+
+
+
+15: Sass docs for fonts:
+
+	_type.scss
+
+
+
+16: Sass docs for media query breakpoints:
+
+	_mq.scss
+
+
+
+17: Docs for anything else (list as many URLs as desired and describe what is located there):
+
+
+18: Example starter page:
+
+	
+	http://erinlea.design/Assignment4/sample.html
+
+
+ABOVE AND BEYOND (16 POINTS)
+Identify what you did for Above and Beyond. Provide any relevant HTML, CSS, or Sass line number(s) and explanation of what you did. How many points do you think this was worth, and why? You can do more than one thing if you want.
+
+	Sorry! I've only got 4 minutes left to submit. I'm out of time to explain the above and beyond stuff. :(	
+
+If you add code features, add matching docs for full credit.
+
+
+
+
+
